@@ -2,7 +2,7 @@
 
 # BharatPe Project
 
-### [Host Link](https://sanjayvvarma.github.io/Bharat-Pe/) 
+### Host Link  [BharatPe](https://sanjayvvarma.github.io/Bharat-Pe/) 
 
 ## Overview
 
