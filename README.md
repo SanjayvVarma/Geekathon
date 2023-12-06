@@ -29,4 +29,6 @@ npm install
 # Start the application
 npm start
 
+![Alt Text](./images/1.jpg)
+
       
