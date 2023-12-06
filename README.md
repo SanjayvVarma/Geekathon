@@ -29,6 +29,6 @@ npm install
 # Start the application
 npm start
 
-[Alt Text](./images/1.jpg)
+[image section-1](./images/1.jpg)
 
       
